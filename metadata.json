@@ -1,0 +1,8 @@
+
+{
+  "name": "CipherMatch – Privacy-Preserving Identity Matching Engine",
+  "description": "Enterprise-grade Symmetric Searchable Encryption (SSE) platform featuring AES-256-GCM document security and zero-knowledge trapdoor matching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
